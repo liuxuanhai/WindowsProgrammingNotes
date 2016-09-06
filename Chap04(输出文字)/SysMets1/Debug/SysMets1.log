@@ -1,0 +1,9 @@
+﻿生成启动时间为 2016/9/6 星期二 上午 10:14:41。
+     1>项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap04\SysMets1\SysMets1.vcxproj”在节点 2 上(Build 个目标)。
+       项目文件包含 ToolsVersion="14.0" 设置，但此工具集未知或缺失。您可以通过为此工具集安装相应的 .NET Framework 来解决此问题。将项目视为具有 ToolsVersion="4.0" 设置。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v140 to build using the v140 build tools.
+     1>已完成生成项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap04\SysMets1\SysMets1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.00

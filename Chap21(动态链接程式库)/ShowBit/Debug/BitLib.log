@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/9/6 星期二 上午 10:39:55。
+     1>项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\ShowBit\BitLib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _WINDLL /Gm /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /Gd /TC /analyze- /errorReport:prompt BitLib.c
+         BitLib.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0409" /nologo /fo".\Debug\BitLib.res" BitLib.rc 
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/BitLib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/BitLib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/BitLib.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug\BitLib.res
+         .\Debug/BitLib.obj
+     1>BitLib.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         BitLib.vcxproj -> C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\ShowBit\.\Debug\BitLib.dll
+     1>已完成生成项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\ShowBit\BitLib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67

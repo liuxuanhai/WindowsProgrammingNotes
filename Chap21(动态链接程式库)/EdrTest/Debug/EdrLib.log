@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/9/6 星期二 上午 10:40:39。
+     1>项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\EdrTest\EdrLib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _WINDLL /Gm /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /Gd /TC /analyze- /errorReport:prompt EdrLib.c
+         EdrLib.c
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/EdrLib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/EdrLib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/EdrLib.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug/EdrLib.obj
+     1>EdrLib.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 .\Debug/EdrLib.lib 和对象 .\Debug/EdrLib.exp
+         EdrLib.vcxproj -> C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\EdrTest\.\Debug\EdrLib.dll
+     1>已完成生成项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\EdrTest\EdrLib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55

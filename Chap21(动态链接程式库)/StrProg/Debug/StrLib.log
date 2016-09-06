@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/9/6 星期二 上午 10:40:15。
+     1>项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\StrProg\StrLib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _WINDLL /Gm /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /Gd /TC /analyze- /errorReport:prompt StrLib.c
+         StrLib.c
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(55): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(288) : 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(56): warning C4996: '_wcsupr': This function or variable may be unsafe. Consider using _wcsupr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(355) : 参见“_wcsupr”的声明
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(65): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(288) : 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(67): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(288) : 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(111): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(288) : 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\windowsprogrammingnotes-master\chap21\strprog\strlib.c(152): warning C4133: “函数”: 从“WCHAR [65]”到“PCTSTR”的类型不兼容
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/StrLib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/StrLib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/StrLib.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug/StrLib.obj
+     1>StrLib.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 .\Debug/StrLib.lib 和对象 .\Debug/StrLib.exp
+         StrLib.vcxproj -> C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\StrProg\.\Debug\StrLib.dll
+     1>已完成生成项目“C:\Users\Administrator\Desktop\WindowsProgrammingNotes-master\Chap21\StrProg\StrLib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.66
